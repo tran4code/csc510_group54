@@ -27,7 +27,7 @@ Prepare a markdown table with **three** columns:
 |The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up|0||
 |Issues are discussed before they are closed, even if you discuss in slack, need a sumamry statement here|1| For some yes, and for some no.
 |Chat channel: exists|0|Link or screenshots: Not available|
-|*Online form evaluation*||
+|**Online form evaluation**||
 |Question 9.1: Does your software adhere to appropriate accessibility conventions or standards?|No||
 |Question 9.2: Does your documentation adhere to appropriate accessibility conventions or standards?|No||
 |Question 10.2: Is each source code release a snapshot of the repository?|Yes||
