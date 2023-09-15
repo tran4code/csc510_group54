@@ -1,4 +1,4 @@
-# Job tracker project (Project t)
+# Job tracker (Project t)
 ## Grading Rubric
 
 Prepare a markdown table with **three** columns:
