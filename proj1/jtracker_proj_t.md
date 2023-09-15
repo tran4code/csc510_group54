@@ -1,3 +1,16 @@
+# Job tracker project (Project t)
+## Grading Rubric
+
+Prepare a markdown table with **three** columns:
+
+- Column1 has all the following points PLUS all the points from the
+  [Software Sustainability Evaluation](https://docs.google.com/forms/d/e/1FAIpQLSf0ccsVdN-nXJCHLluJ-hANZlp8rDKgprJa0oTYiLZSDxh3DA/viewform).
+- Column2 is your self-assessment. For each items, score yourself zero (none), one (a litte), two (somewhat), three (a lot).
+- Column3 is for any links you  are adding to support your claim in column two.
+- At the top, show the sum of column2
+
+
+
 | Notes                                                                                                                                                                                                                                                                                                                                                                                                              | Grades | Evidence                                                                                                                                                                      |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Video                                                                                                                                                                                                                                                                                                                                                                                                              | 2      | There is a video about their program, but it's not of good quality<br />https://user-images.githubusercontent.com/89501363/144725439-5d9191f8-df13-4814-aa15-99cd752ab0cc.mp4 |
