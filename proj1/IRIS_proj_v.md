@@ -12,21 +12,6 @@
 
 
 
-
-
-
-# Project2
-
-
-Please note: this page is INCOMPLETE. It ONLY has the grading details (and not everything else).
-
-
-## Grading Rubric
-
-
-Prepare a markdown table with **three** columns:
-
-
 - Column1 has all the following points PLUS all the points from the
   [Software Sustainability Evaluation](https://docs.google.com/forms/d/e/1FAIpQLSf0ccsVdN-nXJCHLluJ-hANZlp8rDKgprJa0oTYiLZSDxh3DA/viewform).
 - Column2 is your self-assessment. For each items, score yourself zero (none), one (a litte), two (somewhat), three (a lot).
