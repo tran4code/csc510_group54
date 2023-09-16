@@ -11,14 +11,14 @@ Prepare a markdown table with **three** columns:
 
 |Notes|Score|Evidence|
 |-----|------|---------|
-|Video|3|Multiple videos were present documenting the project demo and delta phases. Along with a youtube video covering the project details https://www.youtube.com/watch?v=khQV-oXNhUE|
+|Video|1|A 2 minute youtube video covering the project details, [refer](https://www.youtube.com/watch?v=7ZUhyTCfLUM)|
 |Workload is spread over the whole team (one team member is often Xtimes more productive than the others... 
-but nevertheless, here is a track record that everyone is contributing a lot)|3|The team members have had a fair share of contributions as is evident from the github https://github.com/jayrshah98/GITS2.1-I.R.I.S/graphs/contributors|
-|Number of commits|3|There have been a significant number of commits i.e. 563 https://github.com/jayrshah98/GITS2.1-I.R.I.S|
+but nevertheless, here is a track record that everyone is contributing a lot)|3|The team members have had a fair share of contributions as is evident from the github https://github.com/lokesh45/StockPrediction/graphs/contributors|
+|Number of commits|2|There have been decent number of commits i.e. 170 as evident from [https://github.com/jayrshah98/GITS2.1-I.R.I.S](https://github.com/lokesh45/StockPrediction)|
 |Number of commits: by different people|2|The number of commits were fairly distributed among the team members|
-|Issues reports: there are **decent**|2| Decent number of issue reports i.e. around 20 with 80% of issues closed|
-|Issues are being closed|2|Around 80% of issues were closed|
-|DOI badge: exists|3|There is a presence of DOI badge in GH “https://zenodo.org/badge/latestdoi/428784754”| 
+|Issues reports: there are **decent**|3| Decent number of issue reports i.e. around 31 with 100% of issues closed|
+|Issues are being closed|3|There werent any open issues|
+|DOI badge: exists|3|There is a presence of DOI badge in GH “[https://zenodo.org/badge/latestdoi/428784754](https://zenodo.org/badge/latestdoi/301582156)”| 
 | Docs: doco generated, format not ugly                                                                                                                                                                                       | 3      | Repo has a readme.md file<br />https://github.com/lokesh45/StockPrediction#readme<br />Also a wiki page <br />https://github.com/lokesh45/StockPrediction/wiki> |
 | Docs: what: point descriptions of each class/function (in isolation)                                                                                                                                                        | 0      | doesn't have this documentation                                                                                                                                            |
 | Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z                                                                                                                             | 0      | None                                                                                                                                                                       |
@@ -36,6 +36,26 @@ but nevertheless, here is a track record that everyone is contributing a lot)|3|
 |Issues are discussed before they are closed, even if you discuss in slack, need a sumamry statement here|1| For some yes, and for some no.
 |Chat channel: exists|0|Link or screenshots: Not available|
 |**Online form evaluation**||
+
+|Notes|Score|evidence|
+|-----|-----|---------|
+| Question 1.1: Does your website and documentation provide a clear, high-level overview of your software?| Yes |  Check README.md on homepage of repo. [Here](https://github.com/jayrshah98/GITS2.1-I.R.I.S#readme)
+| Question 1.2: Does your website and documentation clearly describe the type of user who should use your software? |  Yes|  Check README.md on homepage of repo. [Here](https://github.com/jayrshah98/GITS2.1-I.R.I.S/blob/master/README.md)
+| Question 1.3: Do you publish case studies to show how your software has been used by yourself and others? |  Yes|  Have made a report Study|
+| Question 2.1: Is the name of your project/software unique? | Yes |  Could not find anything with the exact name, with the same purpose|
+|Question 2.2: Is your project/software name free from trademark violations?|Yes||
+|Question 3.1: Is your software available as a package that can be deployed without building it?|Yes| They have a [setup.py](https://github.com/jayrshah98/GITS2.1-I.R.I.S/blob/master/setup.py) file|
+|Question 3.2: Is your software available for free?|Yes||
+|Question 3.3: Is your source code publicly available to download, either as a downloadable bundle or via access to a source code repository?|Yes||
+|Question 3.4: Is your software hosted in an established, third-party repository likeGitHub (https://github.com), BitBucket (https://bitbucket.org),LaunchPad (https://launchpad.net) orSourceForge (https://sourceforge.net)?|Yes||
+|Question 4.1: Is your documentation clearly available on your website or within your software?|Yes||
+|Question 4.2: Does your documentation include a "quick start" guide, that provides a short overview of how to use your software with some basic examples of use?|Yes||
+|Question 4.3: If you provide more extensive documentation, does this provide clear, step-by-step instructions on how to deploy and use your software?|Yes||
+|Question 4.4: Do you provide a comprehensive guide to all your software’s commands, functions and options?|Yes||
+|Question 4.5: Do you provide troubleshooting information that describes the symptoms and step-by-step solutions for problems and error messages?|Yes||
+|Question 4.6: If your software can be used as a library, package or service by other software, do you provide comprehensive API documentation?|N/A||
+|Question 4.7: Do you store your documentation under revision control with your source code?|Yes||
+Question 4.8: Do you publish your release history e.g. release data, version numbers, key features of each release etc. on your web site or in your documentation?|Yes||
 |Q5 - How you support your software                                                                                                                                                                                          |        |                                                                                                                                                                            |
 | Question 5.1: Does your software describe how a user can get help with using your software?                                                                                                                                 | No     | They don't have a contact me part                                                                                                                                          |
 | Question 5.2: Does your website and documentation describe what support, if any, you provide to users and developers?                                                                                                       | No     | They don't have a contact me part                                                                                                                                          |
