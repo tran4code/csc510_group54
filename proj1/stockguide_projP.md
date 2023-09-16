@@ -11,6 +11,14 @@ Prepare a markdown table with **three** columns:
 
 |Notes|Score|Evidence|
 |-----|------|---------|
+|Video|3|Multiple videos were present documenting the project demo and delta phases. Along with a youtube video covering the project details https://www.youtube.com/watch?v=khQV-oXNhUE|
+|Workload is spread over the whole team (one team member is often Xtimes more productive than the others... 
+but nevertheless, here is a track record that everyone is contributing a lot)|3|The team members have had a fair share of contributions as is evident from the github https://github.com/jayrshah98/GITS2.1-I.R.I.S/graphs/contributors|
+|Number of commits|3|There have been a significant number of commits i.e. 563 https://github.com/jayrshah98/GITS2.1-I.R.I.S|
+|Number of commits: by different people|2|The number of commits were fairly distributed among the team members|
+|Issues reports: there are **decent**|2| Decent number of issue reports i.e. around 20 with 80% of issues closed|
+|Issues are being closed|2|Around 80% of issues were closed|
+|DOI badge: exists|3|There is a presence of DOI badge in GH “https://zenodo.org/badge/latestdoi/428784754”| 
 | Docs: doco generated, format not ugly                                                                                                                                                                                       | 3      | Repo has a readme.md file<br />https://github.com/lokesh45/StockPrediction#readme<br />Also a wiki page <br />https://github.com/lokesh45/StockPrediction/wiki> |
 | Docs: what: point descriptions of each class/function (in isolation)                                                                                                                                                        | 0      | doesn't have this documentation                                                                                                                                            |
 | Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z                                                                                                                             | 0      | None                                                                                                                                                                       |
