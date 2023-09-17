@@ -37,8 +37,7 @@ Prepare a markdown table with **three** columns:
 |Notes|Score|evidence|
 |-----|-----|---------|
 |Video|3|4min video |
-|Workload is spread over the whole team (one team member is often Xtimes more productive than the others... 
-but nevertheless, here is a track record that everyone is contributing a lot)|3|evidence in GH|
+|Workload is spread over the whole team (one team member is often Xtimes more productive than the others... but nevertheless, here is a track record that everyone is contributing a lot)|3|evidence in GH|
 |Number of commits|3|in GH 468 commits|
 |Number of commits: by different people|3|in GH 5 contributors|
 |Issues reports: there are **little**|1| 7 commits|
