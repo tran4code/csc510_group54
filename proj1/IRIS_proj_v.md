@@ -22,8 +22,7 @@
 |Notes|Score|evidence|
 |-----|-----|---------|
 |Video|3|Multiple videos were present documenting the project demo and delta phases. Along with a youtube video covering the project details https://www.youtube.com/watch?v=khQV-oXNhUE|
-|Workload is spread over the whole team (one team member is often Xtimes more productive than the others... 
-but nevertheless, here is a track record that everyone is contributing a lot)|3|The team members have had a fair share of contributions as is evident from the github https://github.com/jayrshah98/GITS2.1-I.R.I.S/graphs/contributors|
+|Workload is spread over the whole team (one team member is often Xtimes more productive than the others, but nevertheless, here is a track record that everyone is contributing a lot)|3|The team members have had a fair share of contributions as is evident from the github https://github.com/jayrshah98/GITS2.1-I.R.I.S/graphs/contributors|
 |Number of commits|3|There have been a significant number of commits i.e. 563 https://github.com/jayrshah98/GITS2.1-I.R.I.S|
 |Number of commits: by different people|2|The number of commits were fairly distributed among the team members|
 |Issues reports: there are **decent**|2| Decent number of issue reports i.e. around 20 with 80% of issues closed|
