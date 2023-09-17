@@ -47,7 +47,7 @@
 |Test cases: a large proportion of the issues related to handling failing cases.|2| https://github.com/jayrshah98/GITS2.1-I.R.I.S/issues/16 If a test case fails, open an issue and fix it|
 |Evidence that the whole team is using the same tools: everyone can get to all tools and files|3| https://github.com/jayrshah98/GITS2.1-I.R.I.S/graphs/contributors|
 |Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)|3|https://github.com/jayrshah98/GITS2.1-I.R.I.S/graphs/contributors|
-|Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)|0| Not report|
+|Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)|0| Not reported|
 |Evidence that the members of the team are working across multiple places in the code base|2| https://github.com/jayrshah98/GITS2.1-I.R.I.S/graphs/contributors|
 |Short release cycles |2| https://github.com/jayrshah98/GITS2.1-I.R.I.S/releases|
 
