@@ -1,6 +1,7 @@
 # Group 54 Essay
 
 **Please refer to the video description of our chosen project [here](https://www.youtube.com/watch?v=v9Bk4i0JeCQ)**
+
 **The PDF of our essay can be accessed through [this link](https://github.com/tran4code/csc510_group54/blob/main/proj1/Group%2054%20-%20Project%201%20Essay.pdf).**
 
 This essay aims to describe the process Team 54 went through to select a project using the [rubric](https://github.com/txt/se23/blob/main/docs/project2.md), manage the installation, and overcome challenges that arose along the way.
