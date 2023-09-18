@@ -35,6 +35,12 @@ but nevertheless, here is a track record that everyone is contributing a lot)|3|
 |The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up|0||
 |Issues are discussed before they are closed, even if you discuss in slack, need a sumamry statement here|1| For some yes, and for some no.
 |Chat channel: exists|0|Link or screenshots: Not available|
+|Test cases: a large proportion of the issues related to handling failing cases.|0|most issues did not involve test cases|
+|Evidence that the whole team is using the same tools: everyone can get to all tools and files|3| https://github.com/lokesh45/StockPrediction/graphs/contributors|
+|Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)|3| Unsure but assume so if they contributed https://github.com/lokesh45/StockPrediction/graphs/contributors|
+|Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)|0| N/A|
+|Evidence that the members of the team are working across multiple places in the code base|3| See like there were a lot of merges, indicating working across multiple places|
+|Short release cycles |3| https://github.com/lokesh45/StockPrediction/graphs/contributors|
 |**Online form evaluation**||
 
 |Notes|Score|evidence|
@@ -88,3 +94,29 @@ Question 4.8: Do you publish your release history e.g. release data, version num
 |Question 12.3: Do you use continuous integration, automatically running tests whenever changes are made to your source code?|N/A||
 |Question 12.4: Are your test results publicly visible?|No||
 |Question 12.5: Are all manually-run tests documented?|No||
+| Q13 - How you engage with your community |  | |
+Question 13.1: Does your project have resources (e.g. blog, Twitter, RSS feed, Facebook page, wiki, mailing list) that are regularly updated with information about your software? * e.g. release announcements, publications, workshops, conference presentations  | 3 | /yes https://github.com/lokesh45/StockPrediction/wiki |
+| Question 13.2: Does your website state how many projects and users are associated with your project? | 0 | Nope |
+| Question 13.3: Do you provide success stories on your website? | 0 | Nope |
+| Question 13.4: Do you list your important partners and collaborators on your website? | 0 | No |
+| Question 13.5: Do you list your project's publications on your website or link to a resource where these are available? | 0 | Nope |
+| Question 13.6: Do you list third-party publications that refer to your software on your website or link to a resource where these are available? | 0 | Nope |
+| Question 13.7: Can users subscribe to notifications to changes to your source code repository? | 0 | No |
+| Question 13.8: If your software is developed as an open source project (and, not just a project developing open source software), do you have a governance model? | 0 | No |
+| Q14 - How you manage contributions |  |  |
+| Question 14.1: Do you accept contributions (e.g. bug fixes, enhancements, documentation updates, tutorials) from people who are not part of your project? | 3 | Contributors can contribute |
+| Question 14.2: Do you have a contributions policy? | 3 | The policy is provided in the CONTRIBUTING.md file. https://github.com/lokesh45/StockPrediction/blob/master/CONTRIBUTING.md |
+| Question 14.3: Is your contributions' policy publicly available? | 3 | https://github.com/lokesh45/StockPrediction/blob/master/CONTRIBUTING.md |
+| Question 14.4: Do contributors keep the copyright/IP of their contributions? | 0 | No |
+| Q15 - Your software's copyright and licensing  |  |  |
+| Question 15.1: Does your website and documentation clearly state the copyright owners of your software and documentation? | 0 | Nope |
+| Question 15.2: Does each of your source code files include a copyright statement? | 0 | No |
+| Question 15.3: Does your website and documentation clearly state the licence of your software? | 3 | Can check the license details here : https://github.com/lokesh45/StockPrediction/blob/master/LICENSE |
+| Question 15.4: Is your software released under an open source licence? | 3 | CSC510_Project_LectureAid is licensed under the MIT License. https://github.com/lokesh45/StockPrediction |
+| Question 15.5: Is your software released under an OSI-approved open-source licence? | 3 | Yes, MIT is OSI approved. |
+| Question 15.6: Does each of your source code files include a licence header? | 0 | No |
+| Question 15.7: Do you have a recommended citation for your software? | 0 | No |
+| Q16 - Your plans for the future |  |  |
+| Question 16.1: Does your website or documentation include a project roadmap (a list of project and development milestones for the next 3, 6 and 12 months)? | 0 | No |
+| Question 16.2: Does your website or documentation describe how your project is funded, and the period over which funding is guaranteed? | 0 | Not Applicable |
+| Question 16.3: Do you make timely announcements of the deprecation of components, APIs, etc.? | 0 | No |
