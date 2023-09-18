@@ -39,12 +39,12 @@ but nevertheless, here is a track record that everyone is contributing a lot)|3|
 
 |Notes|Score|evidence|
 |-----|-----|---------|
-| Question 1.1: Does your website and documentation provide a clear, high-level overview of your software?| Yes |  Check README.md on homepage of repo. [Here](https://github.com/jayrshah98/GITS2.1-I.R.I.S#readme)
-| Question 1.2: Does your website and documentation clearly describe the type of user who should use your software? |  Yes|  Check README.md on homepage of repo. [Here](https://github.com/jayrshah98/GITS2.1-I.R.I.S/blob/master/README.md)
-| Question 1.3: Do you publish case studies to show how your software has been used by yourself and others? |  Yes|  Have made a report Study|
+| Question 1.1: Does your website and documentation provide a clear, high-level overview of your software?| Yes |  Check README.md on homepage of repo. [Here](https://github.com/lokesh45/StockPrediction#readme)
+| Question 1.2: Does your website and documentation clearly describe the type of user who should use your software? |  Yes|  Check README.md on homepage of repo. [Here](https://github.com/lokesh45/StockPrediction#readme)
+| Question 1.3: Do you publish case studies to show how your software has been used by yourself and others? |  Yes| |
 | Question 2.1: Is the name of your project/software unique? | Yes |  Could not find anything with the exact name, with the same purpose|
 |Question 2.2: Is your project/software name free from trademark violations?|Yes||
-|Question 3.1: Is your software available as a package that can be deployed without building it?|Yes| They have a [setup.py](https://github.com/jayrshah98/GITS2.1-I.R.I.S/blob/master/setup.py) file|
+|Question 3.1: Is your software available as a package that can be deployed without building it?|Yes| They have a [setup.py](https://github.com/lokesh45/StockPrediction/blob/master/setup.py) file|
 |Question 3.2: Is your software available for free?|Yes||
 |Question 3.3: Is your source code publicly available to download, either as a downloadable bundle or via access to a source code repository?|Yes||
 |Question 3.4: Is your software hosted in an established, third-party repository likeGitHub (https://github.com), BitBucket (https://bitbucket.org),LaunchPad (https://launchpad.net) orSourceForge (https://sourceforge.net)?|Yes||
